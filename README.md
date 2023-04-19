@@ -1,6 +1,6 @@
 # apko-done
 
-[![Build action](https://github.com/duyhenryer/apko-done/actions/workflows/release.yaml/badge.svg)](https://github.com/duyhenryer/apko-done/actions/workflows/release.yaml)
+[![Build action](https://github.com/duyhenryer/apko-done/actions/workflows/release.yaml/badge.svg?branch=main)](https://github.com/duyhenryer/apko-done/actions/workflows/release.yaml)
 
 This is a repo template for creating new container image with [melange](https://github.com/chainguard-dev/melange) & [apko](https://github.com/chainguard-dev/apko).
 
