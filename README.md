@@ -73,5 +73,5 @@ The following checks were performed on each of these signatures:
 </details>
 
 ## Template by Tuan Anh 
-https://github.com/tuananh/apko-image-template
+[Apko-image-template](https://github.com/tuananh/apko-image-template)
 
