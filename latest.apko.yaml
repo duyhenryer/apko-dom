@@ -25,4 +25,4 @@ entrypoint:
 
 archs:
 - amd64
-- arm64
+- x86_64
