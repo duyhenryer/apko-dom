@@ -1,10 +1,11 @@
-# apko-done -> dom
+# apko-done
 
 [![Build](https://github.com/duyhenryer/apko-done/actions/workflows/release.yaml/badge.svg?branch=main)](https://github.com/duyhenryer/apko-done/actions/workflows/release.yaml)
 
-This is a repo template for creating new container image with [melange](https://github.com/chainguard-dev/melange) & [apko](https://github.com/chainguard-dev/apko).
+Wolfi-based image configured using [melange](https://github.com/chainguard-dev/melange) and [apko](https://github.com/chainguard-dev/apko).
 
-It comes with a [dummy melange package](hello.melange.yaml) and a default [apko image config](latest.apko.yaml). You will need to edit those files accordingly to get started.
+It comes with a [dummy melange package](hello.melange.yaml) and a default [apko image config](latest.apko.yaml). 
+Edit `latest.apko.yaml` to add or remove whatever packages you need.
 
 ## Usage
 
@@ -72,6 +73,5 @@ The following checks were performed on each of these signatures:
 ```
 </details>
 
-## Template by Tuan Anh 
-[Apko-image-template](https://github.com/tuananh/apko-image-template)
+
 
