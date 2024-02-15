@@ -7,7 +7,7 @@ contents:
   packages:
     - wolfi-baselayout
     - busybox
-    - hello@local
+    # - hello@local
 
 accounts:
   groups:
