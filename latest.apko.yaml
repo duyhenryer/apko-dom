@@ -8,6 +8,7 @@ contents:
     - ca-certificates-bundle
     - wolfi-baselayout
     - busybox
+    - curl
     - hello@local
 
 accounts:
