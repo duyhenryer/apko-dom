@@ -5,9 +5,10 @@ contents:
     - https://packages.wolfi.dev/os
     - '@local ./packages'
   packages:
+    - ca-certificates-bundle
     - wolfi-baselayout
     - busybox
-    # - hello@local
+    - hello@local
 
 accounts:
   groups:
